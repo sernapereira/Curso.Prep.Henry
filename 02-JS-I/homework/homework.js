@@ -11,7 +11,7 @@ const nuevoBool = true;
 
 // Resuelve el siguiente problema matemático:
 const nuevaResta = 10 - 5 === 5;
-
+º
 // Resuelve el siguiente problema matemático:
 const nuevaMultiplicacion = 10 * 4 === 40 ;
 
@@ -35,7 +35,7 @@ function suma(x, y) {
   // "x" e "y" son números
   // Suma "x" e "y" juntos y devuelve el valor
   // Tu código:
-  var suuma = x + y;
+  var suma = x + y;
   return suma;
 }
 
@@ -95,7 +95,7 @@ function tienenMismaLongitud(str1, str2) {
 <<<<<<< HEAD
   var caractere1 = str1;
   var caractere2 = str2;
-  var numerosDeCaractres1 = caractere1.length;
+  var numerosDeCaracteres1 = caractere1.length;
   var numerosDeCaracteres2 = caractere2.length;
   
   if (numerosDeCaractres1 === numerosDeCaracteres2)
