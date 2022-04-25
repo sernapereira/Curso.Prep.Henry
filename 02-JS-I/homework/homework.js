@@ -224,11 +224,7 @@ function obtenerAreaRectangulo(alto, ancho) {
 function retornarPerimetro(lado){
   //Escibe una función a la cual reciba el valor del lado de un cuadrado y retorne su perímetro.
   //Escribe tu código aquí
-<<<<<<< HEAD
   return lado *  4;
-=======
-
->>>>>>> 5ccbbdd3b67a2199c49fe29b7396ba1fabae316a
 }
 
 
