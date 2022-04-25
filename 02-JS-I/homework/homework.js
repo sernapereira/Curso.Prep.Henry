@@ -179,21 +179,15 @@ function esPositivo(numero) {
   //Si el número es positivo, devolver ---> "Es positivo"
   //Si el número es negativo, devolver ---> "Es negativo"
   //Si el número es 0, devuelve false
-<<<<<<< HEAD
-  if ( numero  ===  0 )
-  {
+if ( numero  ===  0 ){
   return false;
-}
-else if ( numero  >  0 )  {
-  return  "Es positivo" ;
-}
-else  {
-  return  "Es negativo" ;
-}
-}
-=======
-
->>>>>>> 5ccbbdd3b67a2199c49fe29b7396ba1fabae316a
+  } 
+  else if ( numero  >  0 )  {
+    return  "Es positivo" ;
+    }
+  else  {
+    return  "Es negativo" ;
+    }
 }
 
 function agregarSimboloExclamacion(str) {
