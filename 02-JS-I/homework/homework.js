@@ -64,17 +64,13 @@ function divide(x, y) {
 function sonIguales(x, y) {
   // Devuelve "true" si "x" e "y" son iguales
   // De lo contrario, devuelve "false"
-<<<<<<< HEAD
+
   // Tu código: 
   if (x==y)
   { return true;}
  
   else 
   { return false;}
-=======
-  // Tu código:
-
->>>>>>> 5ccbbdd3b67a2199c49fe29b7396ba1fabae316a
 }
 
 function tienenMismaLongitud(str1, str2) {
