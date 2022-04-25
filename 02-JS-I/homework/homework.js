@@ -96,27 +96,14 @@ function mayorQueCincuenta(num) {
   // Devuelve "true" si el argumento de la función "num" es mayor que cincuenta
   // De lo contrario, devuelve "false"
   // Tu código:
-<<<<<<< HEAD
-  if (num > 50 ) {
-    return true;
-  }
-  else {
-    return false;
-  }
-=======
-
->>>>>>> 5ccbbdd3b67a2199c49fe29b7396ba1fabae316a
+  return num > 50;
 }
 
 function obtenerResto(x, y) {
   // Obten el resto de la división de "x" entre "y"
   // Tu código:
-<<<<<<< HEAD
   var resto = x % y;
   return resto;
-=======
-
->>>>>>> 5ccbbdd3b67a2199c49fe29b7396ba1fabae316a
 }
 
 function esPar(num) {
