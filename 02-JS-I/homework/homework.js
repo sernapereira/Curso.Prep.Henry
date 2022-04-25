@@ -151,7 +151,6 @@ function elevar(num, exponent) {
 function redondearNumero(num) {
   // Redondea "num" al entero más próximo y devuélvelo
   // Tu código:
-<<<<<<< HEAD
   var decimal = num % 1;
   var entero = num - decimal;
   if (decimal >= 0.5) {
@@ -160,9 +159,6 @@ function redondearNumero(num) {
   else {
     return entero;
     }
-=======
-
->>>>>>> 5ccbbdd3b67a2199c49fe29b7396ba1fabae316a
 }
 
 function redondearHaciaArriba(num) {
