@@ -110,16 +110,12 @@ function esPar(num) {
   // Devuelve "true" si "num" es par
   // De lo contrario, devuelve "false"
   // Tu código:
-<<<<<<< HEAD
   if (num % 2 === 0) {
     return true;
   }
   else {
     return false ;
   }
-=======
-
->>>>>>> 5ccbbdd3b67a2199c49fe29b7396ba1fabae316a
 }
 
 function esImpar(num) {
