@@ -217,11 +217,7 @@ function obtenerSaludo(nombre) {
 function obtenerAreaRectangulo(alto, ancho) {
   // Retornar el area de un rectángulo teniendo su altura y ancho
   // Tu código:
-<<<<<<< HEAD
   return  alto  *  ancho;
-=======
-
->>>>>>> 5ccbbdd3b67a2199c49fe29b7396ba1fabae316a
 }
 
 
