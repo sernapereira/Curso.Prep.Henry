@@ -211,11 +211,7 @@ function obtenerSaludo(nombre) {
   // Toma la string "nombre" y concatena otras string en la cadena para que tome la siguiente forma:
   // "Martin" -> "Hola Martin!"
   // Tu código:
-<<<<<<< HEAD
   return "Hola " + nombre + " !"
-=======
-
->>>>>>> 5ccbbdd3b67a2199c49fe29b7396ba1fabae316a
 }
 
 function obtenerAreaRectangulo(alto, ancho) {
