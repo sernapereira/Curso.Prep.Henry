@@ -182,12 +182,12 @@ function esPositivo(numero) {
 if ( numero  ===  0 ){
   return false;
   } 
-  else if ( numero  >  0 )  {
-    return  "Es positivo" ;
-    }
-  else  {
-    return  "Es negativo" ;
-    }
+else if ( numero  >  0 )  {
+  return  "Es positivo" ;
+  }
+else  {
+  return  "Es negativo" ;
+  }
 }
 
 function agregarSimboloExclamacion(str) {
