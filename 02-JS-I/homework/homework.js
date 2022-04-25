@@ -57,12 +57,8 @@ function multiplica(x, y) {
 function divide(x, y) {
   // Divide "x" entre "y" y devuelve el valor
   // Tu código:
-<<<<<<< HEAD
   var division = x / y;
   return division;
-=======
->>>>>>> 5ccbbdd3b67a2199c49fe29b7396ba1fabae316a
-
 }
 
 function sonIguales(x, y) {
