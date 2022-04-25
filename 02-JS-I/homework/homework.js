@@ -77,36 +77,19 @@ function tienenMismaLongitud(str1, str2) {
   // Devuelve "true" si las dos strings tienen la misma longitud
   // De lo contrario, devuelve "false"
   // Tu código:
-<<<<<<< HEAD
-  var caractere1 = str1;
-  var caractere2 = str2;
-  var numerosDeCaracteres1 = caractere1.length;
-  var numerosDeCaracteres2 = caractere2.length;
-  
-  if (numerosDeCaractres1 === numerosDeCaracteres2)
-  {  return true}
-  
-  else
-  { return false}
-=======
-
->>>>>>> 5ccbbdd3b67a2199c49fe29b7396ba1fabae316a
+  return str1.length === str2.length;
 }
 
 function menosQueNoventa(num) {
   // Devuelve "true" si el argumento de la función "num" es menor que noventa
   // De lo contrario, devuelve "false"
   // Tu código:
-<<<<<<< HEAD
   if (num < 90) {
     return true;
   }
   else {
     return false;
   }
-=======
-
->>>>>>> 5ccbbdd3b67a2199c49fe29b7396ba1fabae316a
 }
 
 function mayorQueCincuenta(num) {
