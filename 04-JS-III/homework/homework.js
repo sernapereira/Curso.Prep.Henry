@@ -3,26 +3,26 @@
 function devolverPrimerElemento(array) {
   // Devuelve el primer elemento de un  array (pasado por parametro)
   // Tu código:
-  const matriz = [1, 2, 3, 4];
+ array = [1, 2, 3, 4];
   return matriz[0];
 }
 
 function devolverUltimoElemento(array) {
   // Devuelve el último elemento de un array
   // Tu código:
-  const numeros = [1, 2, 3, 4];
+  array= [1, 2, 3, 4];
   return numeros[numeros.length - 1]
 }
 
 function obtenerLargoDelArray(array) {
   // Devuelve el largo de un array
   // Tu código:
-  const colores = ["negro", "rojo", "gris", "amarillo"];
+  array = ["negro", "rojo", "gris", "amarillo"];
   return colores.length
 }
 
 
-function incrementarPorUno(array) {
+function incrementarPorUno(array){ 
   // "array" debe ser una matriz de enteros (int/integers)
   // Aumenta cada entero por 1
   // y devuelve el array
