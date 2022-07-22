@@ -66,7 +66,7 @@ function sonIguales(x, y) {
   // De lo contrario, devuelve "false"
 
   // Tu código: 
-  if (x==y)
+  if (x===y)
   { return true;}
  
   else 
